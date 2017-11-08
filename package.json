@@ -1,0 +1,13 @@
+{
+  "name": "file-metadata",
+  "version": "1.0.0",
+  "description": "a simple file metadata microservice",
+  "main": "server.js",
+  "repository": "https://github.com/xevrem/file-metadata.git",
+  "author": "erika jonell <erika.jonell@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2",
+    "express-fileupload": "^0.3.0"
+  }
+}
